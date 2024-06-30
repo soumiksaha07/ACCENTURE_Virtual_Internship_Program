@@ -10,7 +10,7 @@
 - removing rows that have values which are missing <br/>
 - removing rows which aren't required
 - changing the data type of some values within a column <br/>
-- 
+
 **Visualization:** <br/>
 
 - How many unique categories are there? <br/>

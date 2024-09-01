@@ -29,7 +29,7 @@ This project was completed as part of the Accenture North America Data Analytics
 - Provided recommendations for a successful IPO.
 - Analyzed content categories to highlight the top 5 categories with the largest aggregate popularity.
 
-## --------------------------------------------------------------------------------------------------------
+## -------------------------------------------------------------------------------------------
 
 ## Task - 1
 ### Project Understanding:
@@ -72,7 +72,7 @@ In short, the client wanted to see **“An analysis of their content categories 
 
 **Create a final data set by merging 3 tables**
 **End result will be one spreadsheet**
- - A cleaned dataset
+ - A cleaned dataset 
  - Top 5 categories
  - Categories with most reactions
  - Month with most posts
@@ -81,8 +81,10 @@ In short, the client wanted to see **“An analysis of their content categories 
  ### Data Visualization and Storytelling:
  **Make the PowerPoint presentation as per the given template**
  
- - Powerpoint Presentation : [PPT](https://github.com/soumiksaha07/ACCENTURE_Virtual_Internship_Program/blob/main/Data%20Analytics_Data%20Insights%20%26%20Charts.pptx)
+ - Powerpoint Presentation : **[PPT](https://github.com/soumiksaha07/ACCENTURE_Virtual_Internship_Program/blob/main/Data%20Analytics_Data%20Insights%20%26%20Charts.pptx)**
  
  ## Task - 4
  ### Present to the Client:
  **Present your PowerPoint presentation to the client and deliver the insights of your analysis** 
+
+ ## [Certificate of completion]()

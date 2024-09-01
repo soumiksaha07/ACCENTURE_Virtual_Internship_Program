@@ -29,8 +29,7 @@ This project was completed as part of the Accenture North America Data Analytics
 - Provided recommendations for a successful IPO.
 - Analyzed content categories to highlight the top 5 categories with the largest aggregate popularity.
 
-## -------------------------------------------------------------------------------------------
-
+## ------------------------------------------------------------------------------------
 ## Task - 1
 ### Project Understanding:
 **A data analyst sits between the business and the data.**

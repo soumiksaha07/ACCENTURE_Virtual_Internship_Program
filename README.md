@@ -51,7 +51,7 @@ In short, the client wanted to see **“An analysis of their content categories 
 
 ## Task - 2
  - Often you won’t need all these datasets to find what you’re looking for.
- - So, the first step is to use this [data model](#) to identify which datasets will be required to answer your business question - which is to figure out the top 5 categories with the largest popularity.
+ - So, the first step is to use this data to identify which datasets will be required to answer your business question - which is to figure out the top 5 categories with the largest popularity.
  - After Analysis we got data sets needed to complete analysis:
  >- Reaction Score(score is used to quantified the popularity)
  >- Content ID
@@ -64,7 +64,7 @@ In short, the client wanted to see **“An analysis of their content categories 
  - removing rows that have values that are missing,
  - changing the data type of some values within a column, and
  - removing columns that are not relevant to this task.
- - - Think about how each column might be relevant to the business question you’re investigating. If you can’t think of why a column may be useful, it may not be worth including it.
+ - Think about how each column might be relevant to the business question you’re investigating. If you can’t think of why a column may be    useful, it may not be worth including it.
 
 **End result will be a cleaned data set:**
 
@@ -74,15 +74,14 @@ In short, the client wanted to see **“An analysis of their content categories 
 **End result will be one spreadsheet**
  - A cleaned dataset
  - Top 5 categories
- 
- ### Cleaned Data set:
- So, the cleaned data set after data modelling & data cleaning : [Cleaned Dataset](https://github.com/minhaj-313/-Accenture-Data-Analytics-Visualization-Virtual-Internship/blob/main/Content%20-%20Reaction%20Type%20-%20Reaction.csv)
+ - Categories with most reactions
+ - Month with most posts
  
  ## Task - 3
  ### Data Visualization and Storytelling:
  **Make the PowerPoint presentation as per the given template**
  
- - Powerpoint Presentation : [PPT](https://github.com/minhaj-313/-Accenture-Data-Analytics-Visualization-Virtual-Internship/blob/main/Accenture%20Internship%20PowerPoint%20presentation%20-%20Task%203%20By%20Minhaj.pptx)
+ - Powerpoint Presentation : [PPT](https://github.com/soumiksaha07/ACCENTURE_Virtual_Internship_Program/blob/main/Data%20Analytics_Data%20Insights%20%26%20Charts.pptx)
  
  ## Task - 4
  ### Present to the Client:

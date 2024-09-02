@@ -29,7 +29,7 @@ This project was completed as part of the Accenture North America Data Analytics
 - Provided recommendations for a successful IPO.
 - Analyzed content categories to highlight the top 5 categories with the largest aggregate popularity.
 
-## ------------------------------------------------------------------------------------
+## --------------------------------------------------------------------------------------
 ## Task - 1
 ### Project Understanding:
 **A data analyst sits between the business and the data.**
@@ -64,8 +64,6 @@ In short, the client wanted to see **“An analysis of their content categories 
  - changing the data type of some values within a column, and
  - removing columns that are not relevant to this task.
  - Think about how each column might be relevant to the business question you’re investigating. If you can’t think of why a column may be    useful, it may not be worth including it.
-
-**End result will be a cleaned data set:**
 
 ### Data Modelling:
 
